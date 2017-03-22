@@ -22,7 +22,7 @@ public class LoginController
 	public String searchUser()
 	{
 		
-		return "hello";
+		return "helloPramod";
 
 	}
 
